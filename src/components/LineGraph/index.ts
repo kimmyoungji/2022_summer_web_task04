@@ -1,0 +1,1 @@
+export { default as LineGraph } from './index.svelte';
